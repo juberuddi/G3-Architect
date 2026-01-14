@@ -134,7 +134,7 @@ main{
 
 }
 .fetures-two{
-    gap: 140px;
+    gap: 70px;
 }
 .fact{
     border: 1px solid #ff900e;
@@ -168,6 +168,9 @@ main{
 }
 .sponsor-companies{
     filter: grayscale(100%);
+}
+.set-img{
+    width:100% ;
 }
 /* ressponsive media quyri */
 
