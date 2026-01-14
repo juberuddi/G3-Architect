@@ -190,14 +190,14 @@ main{
 }
 /* medium size device */
 @media screen and (min-width:576px) and (max-width:992px){
-    .teams{
+    .teams ,.fetures-two{
         flex-direction: column;
 
     }
     .our-fetures{
         margin: 50px auto;
     }
-    .sponsor-companies , .facts-container  {
+    .sponsor-companies , .facts-container,.fetures-two  {
         grid-template-columns: repeat(2 , 1fr);
     }
     
